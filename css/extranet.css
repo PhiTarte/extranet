@@ -1,0 +1,9 @@
+@CHARSET "utf-8";
+
+.nav-item {
+	color:white;
+	background-color:black;
+	border-style: solid;
+	border-color:red;
+    border-radius: 10px;
+}
