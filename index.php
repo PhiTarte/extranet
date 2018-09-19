@@ -37,8 +37,6 @@
       </div>
     </header>
 
-	<button>TEST</button>
-
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg" id="mainNav">
       <div class="container">
@@ -60,6 +58,10 @@
         </div>
       </div>
     </nav>
+    
+    <div class="image_centrale">
+    	<img alt="adjan" src="./assets/adjan-logo.png">
+    </div>
 
     <!-- Contact -->
     <section id="contact">
